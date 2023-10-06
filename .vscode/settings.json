@@ -1,0 +1,9 @@
+{
+    // "python.defaultInterpreterPath": ".venv/bin/python",
+    // "python.autoComplete.extraPaths": [
+    //     "${workspaceRoot}/bingapi/.venv/lib/python3.12/site-packages",
+    // ],
+    // "python.analysis.extraPaths": [
+    //     "${workspaceRoot}/bingapi/.venv/lib/python3.12/site-packages"
+    // ],
+}
