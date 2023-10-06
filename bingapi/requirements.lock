@@ -13,6 +13,6 @@ certifi==2023.7.22
 charset-normalizer==3.3.0
 idna==3.4
 requests==2.31.0
-rookiepy==0.2.5
+rookiepy==0.2.7
 soupsieve==2.5
 urllib3==2.0.6

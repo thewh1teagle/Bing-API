@@ -6,7 +6,7 @@ authors = [
     { name = "thewh1teagle", email = "61390950+thewh1teagle@users.noreply.github.com" }
 ]
 dependencies = [
-    "rookiepy>=0.2.5",
+    "rookiepy>=0.2.7",
     "bs4>=0.0.1",
     "requests>=2.31.0",
 ]
