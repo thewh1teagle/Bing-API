@@ -37,12 +37,13 @@ class Image:
         return res.content
 
 
-    def open(self):
-        path = self.download()
-        default_open(path)
-
-    def open_in_browser(self):
-        webbrowser.open(self.url)
+    def open(self, in_browser = False):
+        if in_browser:
+            webbrowser.open(self.url)
+        else:
+            path = self.save()
+            default_open(path)
+        
 
 
 class BingAPI:
