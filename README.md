@@ -1,6 +1,6 @@
 # Bing-API
 
-Unofficial `API` for Bing for Python
+Unofficial `API` for Bing in Python
 
 ## What is Bing-API?
 Bing `API` is set of `Libraries` for Using AI related `API's` of `Bing` developed by `Microsoft`
@@ -10,7 +10,7 @@ Bing `API` is set of `Libraries` for Using AI related `API's` of `Bing` develope
 
 ## Install
 ```shell
-pip install -U bingapi
+pip install -U api4bing
 ```
 
 ## Usage
