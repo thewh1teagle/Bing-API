@@ -37,7 +37,7 @@ class Image:
         return res.content
 
 
-    def open_with_default_application(self):
+    def open(self):
         path = self.download()
         default_open(path)
 
