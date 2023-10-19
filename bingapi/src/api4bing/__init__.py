@@ -6,7 +6,7 @@ from urllib.parse import parse_qs, urlsplit, urlunsplit, urlparse, urlunparse
 import time
 from typing import List
 import webbrowser
-from bingapi.cross_open import default_open
+from api4bing.cross_open import default_open
 import tempfile
 
 
